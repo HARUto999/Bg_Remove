@@ -1,2 +1,10 @@
-# Bg_Remove
-VAGcompress Pro - AI Background Removal Tool A browser-based image processing tool that combines AI background removal (via remove.bg API) with client-side PNG optimization using the HTML5 Canvas API. Features smart resizing, transparency preservation, and immediate browser-based downloads.
+# VAGcompress Pro
+ Pro 📸
+
+A lightweight browser tool that removes image backgrounds using AI and optimizes them as transparent PNGs using the HTML5 Canvas API.
+
+## Features
+- *AI Background Removal:* Powered by the [remove.bg API](https://www.remove.bg/).
+- *Smart Compression:* Intelligent resizing to reduce PNG file size without losing transparency.
+- *Client-Side Logic:* Uses HTML5 Canvas for processing; no backend required.
+- *Format Support:* Input JPG/PNG/WebP → Output optimized PNG.
